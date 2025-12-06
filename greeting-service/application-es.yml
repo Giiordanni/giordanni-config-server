@@ -16,4 +16,4 @@ endpoints:
 
 greeting-service:
     greeting: "Hola"
-    default-value: "Word"
+    default-value: "Mundo"
